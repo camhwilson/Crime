@@ -1,0 +1,142 @@
+,ZIP Code,Classification,City,Population,Timezone,Area Code(s)
+0,15006,P.O. Box,Bairdford,240,Eastern,724
+1,15007,General,Bakerstown,323,Eastern,724
+2,15014,General,Brackenridge,"3,184",Eastern,724/878
+3,15015,General,Bradfordwoods,"1,175",Eastern,724/412
+4,15017,General,Bridgeville,"16,213",Eastern,412
+5,15018,General,Buena Vista,821,Eastern,412
+6,15020,P.O. Box,Bunola,231,Eastern,412
+7,15024,General,Cheswick,"9,029",Eastern,724/412
+8,15025,General,Clairton,"15,944",Eastern,412
+9,15028,P.O. Box,Coulters,142,Eastern,412
+10,15030,General,Creighton,"1,128",Eastern,724/878
+11,15031,General,Cuddy,513,Eastern,412
+12,15032,P.O. Box,Curtisville,0,Eastern,724
+13,15034,General,Dravosburg,"1,792",Eastern,412
+14,15035,General,East Mc Keesport,"2,129",Eastern,412
+15,15037,General,Elizabeth,"10,894",Eastern,412
+16,15044,General,Gibsonia,"27,049",Eastern,724/412/878
+17,15045,General,Glassport,"4,483",Eastern,412
+18,15046,General,Crescent,"2,640",Eastern,724/412
+19,15047,P.O. Box,Greenock,151,Eastern,412
+20,15049,General,Harwick,895,Eastern,724
+21,15051,General,Indianola,461,Eastern,412
+22,15056,General,Leetsdale,"1,140",Eastern,412
+23,15064,General,Morgan,382,Eastern,412
+24,15065,General,Natrona Heights,"11,588",Eastern,724/878
+25,15071,General,Oakdale,"9,956",Eastern,412/724
+26,15075,P.O. Box,Rural Ridge,128,Eastern,724/412
+27,15076,General,Russellton,849,Eastern,724
+28,15082,P.O. Box,Sturgeon,350,Eastern,412/724
+29,15084,General,Tarentum,"10,130",Eastern,724
+30,15086,General,Warrendale,300,Eastern,724/878
+31,15088,P.O. Box,West Elizabeth,535,Eastern,412
+32,15090,General,Wexford,"21,202",Eastern,724/878
+33,15091,P.O. Box,Wildwood,0,Eastern,412/724
+34,15095,P.O. Box,Warrendale,0,Eastern,724/878
+35,15096,Unique,Warrendale,0,Eastern,724/878
+36,15101,General,Allison Park,"24,292",Eastern,412/724
+37,15102,General,Bethel Park,"29,529",Eastern,412
+38,15104,General,Braddock,"9,038",Eastern,412
+39,15106,General,Carnegie,"18,536",Eastern,412
+40,15108,General,Coraopolis,"40,153",Eastern,412
+41,15110,General,Duquesne,"5,565",Eastern,412
+42,15112,General,East Pittsburgh,"3,292",Eastern,412
+43,15116,General,Glenshaw,"14,427",Eastern,412
+44,15120,General,Homestead,"18,931",Eastern,412
+45,15122,General,West Mifflin,"20,131",Eastern,412
+46,15123,General,West Mifflin,0,Eastern,412
+47,15126,General,Imperial,"7,014",Eastern,724/412
+48,15127,P.O. Box,Ingomar,0,Eastern,412
+49,15129,General,South Park,"10,920",Eastern,412
+50,15131,General,Mckeesport,"8,240",Eastern,412
+51,15132,General,Mckeesport,"21,472",Eastern,412
+52,15133,General,Mckeesport,"6,432",Eastern,412
+53,15134,P.O. Box,Mckeesport,0,Eastern,412
+54,15135,General,Mckeesport,"5,139",Eastern,412
+55,15136,General,Mc Kees Rocks,"21,849",Eastern,412
+56,15137,General,North Versailles,"10,228",Eastern,412
+57,15139,General,Oakmont,"6,307",Eastern,412
+58,15140,General,Pitcairn,"3,294",Eastern,412
+59,15142,General,Presto,"1,163",Eastern,412
+60,15143,General,Sewickley,"19,660",Eastern,412
+61,15144,General,Springdale,"4,142",Eastern,724/878
+62,15145,General,Turtle Creek,"7,132",Eastern,412
+63,15146,General,Monroeville,"28,323",Eastern,412
+64,15147,General,Verona,"17,395",Eastern,412
+65,15148,General,Wilmerding,"2,814",Eastern,412
+66,15201,General,Pittsburgh,"12,713",Eastern,412/724
+67,15202,General,Pittsburgh,"19,685",Eastern,412
+68,15203,General,Pittsburgh,"9,949",Eastern,412/724
+69,15204,General,Pittsburgh,"8,329",Eastern,412
+70,15205,General,Pittsburgh,"21,865",Eastern,412
+71,15206,General,Pittsburgh,"28,615",Eastern,412
+72,15207,General,Pittsburgh,"11,268",Eastern,412
+73,15208,General,Pittsburgh,"10,406",Eastern,412
+74,15209,General,Pittsburgh,"12,438",Eastern,412/724
+75,15210,General,Pittsburgh,"25,954",Eastern,412
+76,15211,General,Pittsburgh,"11,081",Eastern,412
+77,15212,General,Pittsburgh,"27,895",Eastern,412
+78,15213,General,Pittsburgh,"30,844",Eastern,412/724/878
+79,15214,General,Pittsburgh,"14,352",Eastern,412
+80,15215,General,Pittsburgh,"12,615",Eastern,412
+81,15216,General,Pittsburgh,"23,350",Eastern,412
+82,15217,General,Pittsburgh,"27,220",Eastern,412
+83,15218,General,Pittsburgh,"13,851",Eastern,412
+84,15219,General,Pittsburgh,"16,696",Eastern,412/878/724
+85,15220,General,Pittsburgh,"17,718",Eastern,412
+86,15221,General,Pittsburgh,"31,060",Eastern,412
+87,15222,General,Pittsburgh,"3,294",Eastern,412/878/724
+88,15223,General,Pittsburgh,"7,236",Eastern,412
+89,15224,General,Pittsburgh,"10,141",Eastern,412/724/878
+90,15225,General,Pittsburgh,"1,084",Eastern,412
+91,15226,General,Pittsburgh,"13,974",Eastern,412
+92,15227,General,Pittsburgh,"28,156",Eastern,412
+93,15228,General,Pittsburgh,"17,595",Eastern,412
+94,15229,General,Pittsburgh,"13,825",Eastern,412
+95,15230,P.O. Box,Pittsburgh,0,Eastern,412/724/878
+96,15231,P.O. Box,Pittsburgh,0,Eastern,724/412
+97,15232,General,Pittsburgh,"11,374",Eastern,412/724/878
+98,15233,General,Pittsburgh,"4,451",Eastern,412
+99,15234,General,Pittsburgh,"14,056",Eastern,412
+100,15235,General,Pittsburgh,"34,580",Eastern,412
+101,15236,General,Pittsburgh,"29,724",Eastern,412
+102,15237,General,Pittsburgh,"41,895",Eastern,412
+103,15238,General,Pittsburgh,"13,162",Eastern,412
+104,15239,General,Pittsburgh,"21,024",Eastern,412
+105,15240,P.O. Box,Pittsburgh,0,Eastern,412
+106,15241,General,Pittsburgh,"20,395",Eastern,412/724
+107,15242,P.O. Box,Pittsburgh,0,Eastern,412/724/878
+108,15243,General,Pittsburgh,"13,406",Eastern,412/724
+109,15244,P.O. Box,Pittsburgh,0,Eastern,412/724/878
+110,15250,Unique,Pittsburgh,0,Eastern,412/724/878
+111,15251,Unique,Pittsburgh,0,Eastern,412/724/878
+112,15252,Unique,Pittsburgh,0,Eastern,412/724/878
+113,15253,P.O. Box,Pittsburgh,0,Eastern,412
+114,15254,Unique,Pittsburgh,0,Eastern,412/724/878
+115,15255,Unique,Pittsburgh,0,Eastern,412/724/878
+116,15257,Unique,Pittsburgh,0,Eastern,412/724/878
+117,15258,Unique,Pittsburgh,0,Eastern,412/724/878
+118,15259,Unique,Pittsburgh,0,Eastern,412/724/878
+119,15260,General,Pittsburgh,0,Eastern,412/878/724
+120,15261,Unique,Pittsburgh,0,Eastern,412/724/878
+121,15262,Unique,Pittsburgh,0,Eastern,412/724/878
+122,15264,P.O. Box,Pittsburgh,0,Eastern,412
+123,15265,Unique,Pittsburgh,0,Eastern,412/724/878
+124,15267,Unique,Pittsburgh,0,Eastern,412/724/878
+125,15268,Unique,Pittsburgh,0,Eastern,412/724/878
+126,15270,Unique,Pittsburgh,0,Eastern,412/724/878
+127,15272,General,Pittsburgh,0,Eastern,412/724/878
+128,15274,P.O. Box,Pittsburgh,0,Eastern,412/724
+129,15275,General,Pittsburgh,0,Eastern,412
+130,15276,General,Pittsburgh,0,Eastern,412/724
+131,15277,Unique,Pittsburgh,0,Eastern,412/724/878
+132,15278,Unique,Pittsburgh,0,Eastern,412/724/878
+133,15279,Unique,Pittsburgh,0,Eastern,412/724/878
+134,15281,Unique,Pittsburgh,0,Eastern,412/724/878
+135,15282,Unique,Pittsburgh,0,Eastern,412/724
+136,15283,Unique,Pittsburgh,0,Eastern,412/724/878
+137,15286,Unique,Pittsburgh,0,Eastern,412/724/878
+138,15289,Unique,Pittsburgh,0,Eastern,412/878/724
+139,15290,General,Pittsburgh,0,Eastern,412/724
+140,15295,General,Pittsburgh,0,Eastern,412/724
